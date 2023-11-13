@@ -115,6 +115,7 @@ samp {
 
 small {
   font-size: 80%;
+  color:rgb(149, 149, 149);
 }
 
 /**
@@ -147,6 +148,7 @@ sup {
 
 img {
   border-style: none;
+  border-radius: 10px;
 }
 
 /* Forms
