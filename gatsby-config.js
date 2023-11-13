@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `기록을 위해서`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `준돌`,
+      summary: `잊혀져 가는 모든 것을 조금이라도 남기기 위해 씁니다.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `모든 것을 위해 쓰는 블로그`,
+    siteUrl: `https://jundolee.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jundolee`,
     },
   },
   plugins: [

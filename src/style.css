@@ -1,5 +1,6 @@
+@import url('https://webfontworld.github.io/gmarket/GmarketSans.css');
+
 /* CSS Custom Properties Definitions */
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap');
 
 :root {
   --maxWidth-none: "none";
@@ -28,11 +29,11 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: "Nanum Myeongjo", "MontserratVariable", system-ui, -apple-system,
+  --fontFamily-sans: "GmarketSans", "MontserratVariable", system-ui, -apple-system,
     BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
-  --fontFamily-serif: "Nanum Myeongjo", "Merriweather", "Georgia", Cambria, "Times New Roman",
+  --fontFamily-serif: "GmarketSans", "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
