@@ -12,7 +12,8 @@ module.exports = {
     title: `기록을 위해서`,
     author: {
       name: `준돌`,
-      summary: `잊혀져 가는 모든 것을 조금이라도 남기기 위해 씁니다.`,
+      summary: `잊혀져 가는 모든 것을 조금이라도 남기기 위해 씁니다.
+      기록을 위해서 씁니다.`,
     },
     description: `모든 것을 위해 쓰는 블로그`,
     siteUrl: `https://jundolee.github.io/`,
