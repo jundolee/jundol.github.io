@@ -97,8 +97,13 @@ body {
 }
 
 footer {
-  padding-top: var(--spacing-3);
-  color:#a5a5a5;
+  padding-top: var(--spacing-0);
+  color:#a6a6a6;
+}
+
+footer a {
+  display: flex;
+  justify-content: right;
 }
 
 hr {
@@ -310,18 +315,18 @@ a:focus {
 
 .bio {
   display: flex;
-  margin-bottom: var(--spacing-0);
+  margin-bottom: var(--spacing-0);  
 }
 
 .bio p {
-  margin-bottom: var(--spacing-0);
+  margin-top: var(--spacing-0);
 }
 
 .bio-avatar {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
   min-width: 50px;
-  border-radius: 100%;
+  border-radius: 100%;;
 }
 
 .blog-post header h1 {
@@ -352,6 +357,14 @@ a:focus {
     word-break: keep-all;
 }
 
+.blog-post li {
+  font-size: var(--fontSize-0);
+}
+
+.blog-post-bio {
+  padding-top: var(--spacing-10);
+  color: #959596;
+}
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);

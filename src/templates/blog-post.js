@@ -55,9 +55,9 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
-      <footer>
-          <Bio />
-        </footer>
+      <div className="blog-post-bio">
+        <Bio />
+      </div>
     </Layout>
   )
 }

@@ -3,6 +3,7 @@ title: "Alone"
 date: "2023-11-14"
 descption: "홀로 추천사"
 ---
+![main_pic](./main.png)
 
 **홀로 추천사**</br>
 홀로 있을 때야 말로 잘 보인다. 내가 가진 것에 대해서 생각할 수 있다
