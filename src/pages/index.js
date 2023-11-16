@@ -36,22 +36,22 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.excerpt || post.frontmatter.description,
-                    }}
-                    itemProp="excerpt"
-                  />
-                </section>
+                <Link to={post.fields.slug} itemProp="url">
+                  <header>
+                    <h2>               
+                      <span itemProp="headline">{title}</span> 
+                    </h2>
+                    <small>{post.frontmatter.date}</small>
+                  </header>
+                  <section>
+                   <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.excerpt
+                     }}
+                     itemProp="excerpt"
+                   />
+                  </section>
+                </Link>
               </article>
             </li>
           )
@@ -79,7 +79,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
-        excerpt(pruneLength: 160)
+        excerpt(pruneLength: 150, truncate: true)
         fields {
           slug
         }

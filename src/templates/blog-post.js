@@ -27,9 +27,7 @@ const BlogPostTemplate = ({
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
+        
       </article>
       <nav className="blog-post-nav">
         <ul
@@ -57,6 +55,9 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+      <footer>
+          <Bio />
+        </footer>
     </Layout>
   )
 }

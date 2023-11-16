@@ -46,7 +46,7 @@
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 1.625;
   /* 1.200 Minor Third Type Scale */
-  --fontSize-0: 0.833rem;
+  --fontSize-0: 0.97rem;
   --fontSize-1: 1rem;
   --fontSize-2: 1.2rem;
   --fontSize-3: 1.44rem;
@@ -77,14 +77,28 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.post-list-item {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  align-self: stretch;
+  background-color: #fff;
+  box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.25);
+}
+
+
 body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  word-break: keep-all;
 }
 
 footer {
-  padding: var(--spacing-6) var(--spacing-0);
+  padding-top: var(--spacing-3);
+  color:#a5a5a5;
 }
 
 hr {
@@ -177,7 +191,9 @@ ol {
   list-style-image: none;
 }
 
-ul li,
+ul li{
+  font-size: var(--fontsi);
+}
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
@@ -202,8 +218,8 @@ blockquote {
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
   border-left: var(--spacing-1) solid var(--color-primary);
-  font-size: var(--fontSize-2);
-  font-style: italic;
+  font-size: var(--fontSize-0);
+  font-style:normal;
   margin-bottom: var(--spacing-8);
 }
 
@@ -221,6 +237,7 @@ table {
   margin-bottom: var(--spacing-8);
   border-collapse: collapse;
   border-spacing: 0.25rem;
+  font-size: var(--fontSize-0);
 }
 
 table thead tr th {
@@ -231,11 +248,13 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+  text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-position: under;
 }
 
 /* Custom classes */
@@ -286,11 +305,12 @@ a:focus {
   font-size: var(--fontSize-2);
   color: #000;
   text-decoration-line: underline;
+  text-underline-position: under;
 }
 
 .bio {
   display: flex;
-  margin-bottom: var(--spacing-16);
+  margin-bottom: var(--spacing-0);
 }
 
 .bio p {
@@ -316,10 +336,26 @@ a:focus {
 
 .blog-post-nav ul {
   margin: var(--spacing-0);
+  margin-top: var(--spacing-10);
 }
+
+.blog-post a {
+  color: var(--color-text-light);
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.blog-post p {
+    font-family: var(--font-body);
+    font-size: var(--fontSize-0);
+    color: var(--color-text);
+    word-break: keep-all;
+}
+
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+  font-size: var(--fontSize-0);
 }
 
 /* Media queries */
