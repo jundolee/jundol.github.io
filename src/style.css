@@ -192,7 +192,7 @@ ol {
   margin-right: var(--spacing-0);
   padding: var(--spacing-0);
   margin-bottom: var(--spacing-8);
-  list-style-position: outside;
+  list-style-position: inside;
   list-style-image: none;
 }
 
@@ -219,7 +219,7 @@ li > ul {
 
 blockquote {
   color: var(--color-text-light);
-  margin-left: calc(-1 * var(--spacing-6));
+  margin-left: calc(0 * var(--spacing-6));
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
   border-left: var(--spacing-1) solid var(--color-primary);
@@ -329,14 +329,29 @@ a:focus {
   border-radius: 100%;;
 }
 
-.blog-post header h1 {
-  margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
+/* sticky 구현 */
+.sticky {
+  position: sticky;
+  top: 0px;
+  background: #fff;
+  padding : 10px;
+  z-index: 1;
+  border-bottom: 1px solid #000;
 }
 
-.blog-post header p {
+.blog-post header h1 {
+  background-color: #fff;
+  width: 100%;
+  padding: 5px;
+  z-index: 1;
+  margin: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-0);
+}
+
+.blog-post-date {
   font-size: var(--fontSize-1);
   font-family: var(--font-heading);
-  color:#959596;
+  color:#656565;
+  padding-top: var(--spacing-2);
 }
 
 .blog-post-nav ul {
