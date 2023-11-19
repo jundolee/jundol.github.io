@@ -20,7 +20,7 @@ const BlogPostTemplate = ({
       >
         <div className="sticky">
           <header>
-            <h1 itemProp="headline">{post.frontmatter.title}</h1>
+            <h2 itemProp="headline">{post.frontmatter.title}</h2>
           </header>
         </div>
         <p className="blog-post-date">{post.frontmatter.date}</p>
