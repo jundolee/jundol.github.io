@@ -2,7 +2,7 @@
 title: "홀로 추천사"
 date: "2023-11-14"
 descption: "홀로 추천사"
-category: "에세이"
+category: "책"
 ---
 ![main_pic](./main.png)
 
