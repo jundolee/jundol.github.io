@@ -103,7 +103,7 @@ export const pageQuery = graphql`
       sort: { frontmatter: { date: DESC } }
       filter: { frontmatter: { category: { ne: null } } }
     ) {
-      distinct(field: frontmatter___category)
+      distinct(field: {frontmatter: {category: SELECT}})
       nodes {
         excerpt(pruneLength: 150, truncate: true)
         fields {

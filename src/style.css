@@ -274,9 +274,6 @@ a:focus {
   margin-bottom: var(--spacing-0);
 }
 
-.global-wrapper[data-is-root-path="false"] .bio {
-  margin-bottom: var(--spacing-0);
-}
 
 .global-header {
   margin-bottom: var(--spacing-12);
