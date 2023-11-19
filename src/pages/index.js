@@ -29,57 +29,59 @@ const BlogIndex = ({ data, location, pageContext }) => {
   }
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <Bio />
-      <div className="cat_nav">
-        <p
-          style={{ fontWeight: !selectedCategory ? 'bold' : 'normal' }}
-          onClick={handleAllButtonClick}
-        >
-          <Link to="/">All</Link>
-        </p>
-        {allCategories.map(cat => (
+    <html lang="ko">
+      <Layout location={location} title={siteTitle}>
+        <Bio />
+        <div className="cat_nav">
           <p
-            style={{ fontWeight: selectedCategory === cat ? 'bold' : 'normal' }}
-            onClick={() => setSelectedCategory(cat)}
+            style={{ fontWeight: !selectedCategory ? 'bold' : 'normal' }}
+            onClick={handleAllButtonClick}
           >
-            <Link to={`/${cat}/`}>{cat}</Link>
+            <Link to="/">All</Link>
           </p>
-        ))}
-      </div>
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+          {allCategories.map(cat => (
+            <p
+              style={{ fontWeight: selectedCategory === cat ? 'bold' : 'normal' }}
+              onClick={() => setSelectedCategory(cat)}
+            >
+              <Link to={`/${cat}/`}>{cat}</Link>
+            </p>
+          ))}
+        </div>
+        <ol style={{ listStyle: `none` }}>
+          {posts.map(post => {
+            const title = post.frontmatter.title || post.fields.slug
 
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <Link to={post.fields.slug} itemProp="url">
-                  <header>
-                    <h2>               
-                      <span itemProp="headline">{title}</span> 
-                    </h2>
-                    <small>{post.frontmatter.date}</small>
-                  </header>
-                  <section>
-                   <p
-                      dangerouslySetInnerHTML={{
-                        __html: post.excerpt
-                     }}
-                     itemProp="excerpt"
-                   />
-                  </section>
-                </Link>
-              </article>
-            </li>
-          )
-        })}
-      </ol>
-    </Layout>
+            return (
+              <li key={post.fields.slug}>
+                <article
+                  className="post-list-item"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <Link to={post.fields.slug} itemProp="url">
+                    <header>
+                      <h2>               
+                        <span itemProp="headline">{title}</span> 
+                      </h2>
+                      <small>{post.frontmatter.date}</small>
+                    </header>
+                    <section>
+                      <p
+                        dangerouslySetInnerHTML={{
+                          __html: post.excerpt
+                        }}
+                        itemProp="excerpt"
+                      />
+                    </section>
+                  </Link>
+                </article>
+              </li>
+            )
+          })}
+        </ol>
+      </Layout>
+    </html>
   )
 }
 
