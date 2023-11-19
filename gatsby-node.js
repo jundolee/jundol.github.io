@@ -20,6 +20,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const result = await graphql(`
     {
       allMarkdownRemark(sort: { frontmatter: { date: ASC } }, limit: 1000) {
+        categoryList: distinct(field: {frontmatter: {category: SELECT}})
         nodes {
           id
           fields {
@@ -37,7 +38,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     )
     return
   }
-
   const posts = result.data.allMarkdownRemark.nodes
 
   // Create blog posts pages
@@ -60,6 +60,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+  
+  const categoryPosts = path.resolve(`./src/templates/category-posts.js`)
+
+  const categories = result.data.allMarkdownRemark.categoryList
+  categories.forEach(category => {
+    createPage({
+      path: `/${category}/`,
+      component: categoryPosts,
+      context: { category },
+    })
+  })
 }
 
 /**
