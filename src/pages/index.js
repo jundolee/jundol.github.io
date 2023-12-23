@@ -107,7 +107,7 @@ export const pageQuery = graphql`
     ) {
       distinct(field: {frontmatter: {category: SELECT}})
       nodes {
-        excerpt(pruneLength: 150, truncate: true)
+        excerpt(pruneLength: 100, truncate: true)
         fields {
           slug
         }
