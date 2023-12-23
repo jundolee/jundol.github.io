@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[모든 것을 위해 쓰는 블로그]]></description><link>https://jundolee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Dec 2023 06:16:34 GMT</lastBuildDate><item><title><![CDATA[광화문 사진]]></title><link>https://jundolee.github.io/광화문 사진/</link><guid isPermaLink="false">https://jundolee.github.io/광화문 사진/</guid><pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[모든 것을 위해 쓰는 블로그]]></description><link>https://jundolee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Dec 2023 08:55:20 GMT</lastBuildDate><item><title><![CDATA[최후의 보루는 마음이어야 한다]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/last_mind/</link><guid isPermaLink="false">https://jundolee.github.io/last_mind/</guid><pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;우리는 무슨 일을 하든 대게 최후의 보루를 세워놓는다. 더 이상은 물러날 수 없도록, 내 발이 딛는 마지막 공간에 떡하니 구조물을 세워둔다. 만약 일이 조금 틀어지더라도, 나에게는 최후의 보루가 남아있으니 괜찮겠냐고 스스로 자위하면서 말이다. 하지만 보루가 물건이나 물질이 되어서는 안 된다. 그렇게 믿고 있다. 물질적인 요소는 생각보다 그리 튼튼하지 않다. 밖에서 볼 때는 단단해 보이더라도, 우리를 보호하기에는 한없이 약하다. 마지막까지 지켜야 할 마지막 보루는 마음이다. 모든 것이 무너진다고 하더라도 단단한 마음만 있으면, 폐허가 된 곳에서도 다시 시작할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[광화문 사진]]></title><link>https://jundolee.github.io/광화문 사진/</link><guid isPermaLink="false">https://jundolee.github.io/광화문 사진/</guid><pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
@@ -30,37 +30,7 @@
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[홀로 추천사]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/alone/</link><guid isPermaLink="false">https://jundolee.github.io/alone/</guid><pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/5a190/main.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 46.202531645569614%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA/0lEQVR42p3QwUsCQRTH8f3fzItQB2O3N+QhiIi6a+3MpEIaYoIkiYUHCaEOHYKgQ6eC6hr1nyjuuOvqzi9cPDa6ePjCY3jvcxhLkUCi2KIVe1YSzJvncHiOG89rgzHEBEKSCA4qCI9rmNg8flsL9B2OQU7itXSJt6sOnlptfB+VMHXMqBEck8AgV8Rsl+O3eY3n+x66D7f4LNcRZV2MmEwOjkhgtuPiZ+8Ch/t9nBVfUOt94bz/gXfeRbRdMIMeCW1qTEJXN6s6tdHQduZGp7ce9Z3d1mAnekjy3xvLZxKmAiYRMRch5TGhAgI6hT//2yU3lkdcrUqRVIrEouW7f9+e8V1yfoQaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;main_pic&quot;
-        title=&quot;&quot;
-        src=&quot;/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/f058b/main.png&quot;
-        srcset=&quot;/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/c26ae/main.png 158w,
-/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/6bdcf/main.png 315w,
-/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/f058b/main.png 630w,
-/static/9f0d0c3ea9e753ee5db3df3ee4d9c745/5a190/main.png 800w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[홀로 추천사]]></title><description><![CDATA[main_pic…]]></description><link>https://jundolee.github.io/alone/</link><guid isPermaLink="false">https://jundolee.github.io/alone/</guid><pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./main.png&quot; alt=&quot;main_pic&quot;&gt;&lt;/p&gt;
 &lt;p&gt;홀로 있을 때야 말로 잘 보인다.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;홀로 추천사&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
