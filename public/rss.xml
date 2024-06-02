@@ -1,40 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[모든 것을 위해 쓰는 블로그]]></description><link>https://jundolee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 16 May 2024 22:36:21 GMT</lastBuildDate><item><title><![CDATA[왜 또 블로그를 만들었을까?]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/blog_start/</link><guid isPermaLink="false">https://jundolee.github.io/blog_start/</guid><pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;왜 또 블로그를 만들었을까?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;네이버부터 시작하여 티스토리, 브런치 등. 글을 올릴 수 있는 곳이라면 모두 가입하고, 글 몇 개를 적고난 뒤, 이내 쉽게 싫증나 들어가 보지도 않게 된다. 노트도 마찬가지도 노션이니 메모앱이니, 옵시디언이니 끄적거리기를 반복하지만 결국은 방치라는 결말로 이른다.&lt;/p&gt;
-&lt;p&gt;그런데 또 블로그를 만들었다. 이번에는 코딩까지 공부해 가며 말이다. 나는 어릴 때부터 항상 그래왔던 것 같다. 무엇을 하던 가장 중요한 일은 제쳐둔 채, 준비만을 하는 일 말이다. 블로그의 경우에는 글을 쓰고, 퇴고하여, 차곡차곡 글을 올리는 것이 가장 중요하지만, 나는 그저 힙한 플랫폼만 찾아 떠돌아다닐 뿐이다. 마치 시험공부를 하기 전, 책상을 치우고, 주변의 환경을 정리하지만 금세 몸이 지쳐 정작 공부는 하지 않는 것처럼 말이다.&lt;/p&gt;
-&lt;p&gt;그럼에도 불구하고, 나는 또 새로운 블로그를 만들었다. 얼마 지나지 않아 글을 올리는 횟수가 줄어들고, 그러다 더 이상 글이 올라가지 않을지라도 말이다. 왜냐하면 그렇게 여러 플랫폼을 전전해 다니면서라도, 글을 쓰는 것을 멈추지 않는다면 결국에는 글에 대한 나의 실력과 생각의 크기가 확장될 것이라고 믿기 때문이다.&lt;/p&gt;
-&lt;p&gt;24년이 시작되고, 나는 마음속에 새로운 목표를 하나 잡았다. 이야기를 꾸준하게 찾고, 모든 것에 호기심을 가지고, 끊임없이 글을 쓰고, 주저없이 게재하는 것을.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[최후의 보루는 마음이어야 한다]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/last_mind/</link><guid isPermaLink="false">https://jundolee.github.io/last_mind/</guid><pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;우리는 무슨 일을 하든 대게 최후의 보루를 세워놓는다. 더 이상은 물러날 수 없도록, 내 발이 딛는 마지막 공간에 떡하니 구조물을 세워둔다. 만약 일이 조금 틀어지더라도, 나에게는 최후의 보루가 남아있으니 괜찮겠냐고 스스로 자위하면서 말이다. 하지만 보루가 물건이나 물질이 되어서는 안 된다. 그렇게 믿고 있다. 물질적인 요소는 생각보다 그리 튼튼하지 않다. 밖에서 볼 때는 단단해 보이더라도, 우리를 보호하기에는 한없이 약하다. 마지막까지 지켜야 할 마지막 보루는 마음이다. 모든 것이 무너진다고 하더라도 단단한 마음만 있으면, 폐허가 된 곳에서도 다시 시작할 수 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[광화문 사진]]></title><link>https://jundolee.github.io/광화문 사진/</link><guid isPermaLink="false">https://jundolee.github.io/광화문 사진/</guid><pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d061cf10cdcac93663ac35e3267bd4dd/ed358/m.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 125.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAIAAAC+dZmEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFV0lEQVR42l3N+U/adxzH8e+PW/bD0nXZmrbTNXa2a2trtYoicglye3CIIoei8AVFTkVRBKq0coiAgGIFxQNbURTB27quTZpmW5PF75e6dqvr1h/2dyzoXLolj7zz+eH1zAewP4JPQfZHkGMRsi9mrjMGD2dAriXYvQy7Vn5dSe5shE0TJoVTSBthoV0sDJDZnYhlghOuGOxagl1LkGsJGlmGPXEosP52dmF10der4ZIIxcUVlXQMvQ5wxaCMpf8bWc586InD3pW0Nw7Nfvf+nnMsZNPZ7/dT64SNLXKeSAr8J8g0kPvDbCXtXYX9CXhs89303OJe1DZis7B54sYmqVCiANyZNeSJQ574SXBqNWM0kfYl0v5E2r9+FFtO/Lw55rBZBW1aqUJrMPQDH65HT52UvlXYdxwH1tL+9bdb27svVr0TJo1fyonKauebaUBmnYB9H/CfXv9a2r+WKceT6eDW0UJsbXfOMcAjy/BIDrGSQqkB/l0Eksf3mH8NDiThQDI9ljwuk+nI/p+24cCj0V5tpwZfw2MJZdwmEJhY/yWYejWeSp+CA0kokDwIJA/Gk9B4Cp5Yhyc34NDuUSqVfJnyO6z93AZBQwOP3ygA/JHYzJN303u/hbYOH6SgB+vwMeif90Z6ch2e2oTDu293drYP98NOu1UAKtS6roFBK8Bgc9p6HaGV5zO7r+efvp/aeRNMpYMbhw+230xuHU5twXN7hzN7r6f3jvZ2Ng+2gpMOi69XEzRpetr5QEFx6W1EqZRLM6qkg4P3Iyv7T3589ezps8cbm98nFtJPE7FJz2x8O/b8/XI8vhcdDkgYDi6ljUmnVhKAb/NufXL2fD0JbW7AqSlFDrBupEPYx2PIGAQmClGPL28moBVMejQcDo+PLviMPZ1KNK2BWtfCFbUBSFxFEY7YwqTL2FVSfr2Yz20VcdUKsdWkEgu5+YUliGJkWX4h/kaez6R8uR0aGjSKpIomiVyh1QNZly6f+eIiKOZ5h7qCQ5rZke4lX+9Dr2HN32NVCTjUCg69sraKiiwrtxuVb55F75kNrW1Kpa5Ta+gD8ktQheU4313lvKsz5u6aGe566OpacOsXPV0WpYBJwjJJWBYFX0PCRdzG31/EHAP9vd2GcdvdKYcZOHch+3z2ZZNSGHV1zTu1U3btokc/69RFXTpzB591HDPJOBq+3G3R/pSa3OjmRSV0n4g2WlcBXC8syUMgR4zyiEO34NTO2NTzDnV4SB11ao3yegYexaHg2GRcDRFjkPM3InZQyEMS6jFUPrZKDHx5Mfub6zf7OwSRIeWcXTUxqJhzaELW9mC/RCOopmPL6ukVTBKWjC6ZsOnhxzNGo4kh0HGaVGxhB3DhUm7OtTyHrjloAifN0qAZnL3fERpsC90FtaKaKiySQ8ZyyFgKCjE+1P3HD7G7Zktdk0qu7muSdwIIVDnYLtdL6kYN4siAfMIMhixgoK919l57t5hJQ5cyK9G1BDS9HKEFRX3d2ko2iGZ3kHgaqkAN0Kqrm8Qit148IGdpBTSvXujraQ70SaYG5IYWJgOHZJMwDGxpNb7Ma1Fbu9uzsnOzriByr6FyrqIAHImg0iotSr6GTy67dZlJvCNhlTHJRbJGMsghM7ClvCoCh4KpJaIM7YLt+WEWvuDcmU8/+/ijrz4/CxTcuSZuEaGQN9nVxF6NuKezVa0UcFmVZDyCS8FSUUUsIqoGX0osyQ879dB+pJGBvpBzJevKjQZeA4AoQyhVIKYCS2GxBy2G6dCoRAYmHwZXp4dlQk4F4nY1HknDINAFeTMe018HKUUjNSsn9+urN1paxX8DxinsuuHIq/AAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;main_pic&quot;
-        title=&quot;&quot;
-        src=&quot;/static/d061cf10cdcac93663ac35e3267bd4dd/f058b/m.png&quot;
-        srcset=&quot;/static/d061cf10cdcac93663ac35e3267bd4dd/c26ae/m.png 158w,
-/static/d061cf10cdcac93663ac35e3267bd4dd/6bdcf/m.png 315w,
-/static/d061cf10cdcac93663ac35e3267bd4dd/f058b/m.png 630w,
-/static/d061cf10cdcac93663ac35e3267bd4dd/40601/m.png 945w,
-/static/d061cf10cdcac93663ac35e3267bd4dd/78612/m.png 1260w,
-/static/d061cf10cdcac93663ac35e3267bd4dd/ed358/m.png 2904w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[홀로 추천사]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/alone/</link><guid isPermaLink="false">https://jundolee.github.io/alone/</guid><pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;홀로 추천사&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[모든 것을 위해 쓰는 블로그]]></description><link>https://jundolee.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Jun 2024 14:24:10 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://jundolee.github.io/지워지지않는투두리스트/</link><guid isPermaLink="false">https://jundolee.github.io/지워지지않는투두리스트/</guid><content:encoded></content:encoded></item><item><title><![CDATA[기획 방법론]]></title><description><![CDATA[사업팀은 제품을 빨리 출시하고 싶은 반면. 개발팀은 기존의 업무도 산더미처럼 쌓여있다. 1. 일정관리 복수의 과제들 중 우선순위를 선정하여, 2) 조직 자원을 효율적으로 투입하는 행위…]]></description><link>https://jundolee.github.io/Planning/</link><guid isPermaLink="false">https://jundolee.github.io/Planning/</guid><pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;사업팀은 제품을 빨리 출시하고 싶은 반면. 개발팀은 기존의 업무도 산더미처럼 쌓여있다.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;1. 일정관리&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;복수의 과제들 중 우선순위를 선정하여, 2) 조직 자원을 효율적으로 투입하는 행위&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;2. 일정관리 이유&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;일정 관리는 모든 과제를 빨리빨리한다는 의미가 아니다.&lt;/li&gt;
+&lt;li&gt;가용 자원을 프로젝트별 임팩트를 고려하여 우선순위를 정하고, 적절하게 배분하는 것이 핵심이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;3. 일정관리는 어떻게 하는가&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;일정 수준의 백로그가 쌓이면 PM은 과제 리스트를 작성한다.&lt;/li&gt;
+&lt;li&gt;짧으면 분기, 길면 반기 단위로 대청소하듯 작업하는 경우가 많은데, 아래 5단계를 따라간다.&lt;/li&gt;
+&lt;li&gt;과제 리스트 작성 -&gt; 우선 순위 판단 -&gt; 직군별 검토 및 토론 -&gt; 담당자 지정 -&gt; WBS 배치 후 토론&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;4. 일정관리 방식&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;과제 리스트 작성
+&lt;ul&gt;
+&lt;li&gt;inbox에 넣어 놓은 태스크처럼 생각나는 일을 모두 쓴다.
+&lt;ul&gt;
+&lt;li&gt;이때 툴은 크게 상관이 없다. 엑셀이 되었던, 노션, 지라, 위키, 피그마 등 편한 툴을 사용하여 글을 쓴다.&lt;/li&gt;
+&lt;li&gt;1)과제명, 2)플랫폼, 3)니즈, 4)개요, 5)상세설명 정도면 충분&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;우선 순위 판단
+&lt;ol&gt;
+&lt;li&gt;우선순위에 대한 판단은 PM이 1차적으로 진행하며, 확인은 유관 리더들을 전부 동석시킨 상태에서 진행한다.
+&lt;ol&gt;
+&lt;li&gt;이때 안건이 1)얼마나 임팩트 있는지, 2)난이도는 어떤지, 3)외부 개입 요소는 없는지와 같이 다각도로 채점하여 순위를 매긴다&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;직군별 검토 및 토론
+&lt;ol&gt;
+&lt;li&gt;기획팀, 디자인팀, 개발팀 별로 리더와 구성원이 현재 예측 가능 수준에서 자원 투입량을 확인한다.&lt;/li&gt;
+&lt;li&gt;최초 작성이 끝나면 PM은 담당자를 만나, 작성 근거와 설명을 경청한다.&lt;/li&gt;
+&lt;li&gt;이때는 다그치는 분위기가 아니라, 도와주려는 자세로 경청한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;담당자 지정
+&lt;ol&gt;
+&lt;li&gt;투입 자원을 검토하여 담당자를 지정한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;WBS 배치 후 토론
+&lt;ol&gt;
+&lt;li&gt;담당자 지정이 끝났다면 WBS(Work Breakdown Structure)를 작성한다.&lt;/li&gt;
+&lt;li&gt;WBS 작성 시에는 프로젝트 별 1)우선순위, 2)필요한 일정, 3)담당자 리소스를 고려하여 순서를 배치&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;5. 일정관리를 잘하려면&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;PM은 아래 4가지를 늘 신경 써야 WBS 과정이 순조로워진다.&lt;/li&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;동료 파악, 2) 신뢰 조성, 3) 목표 및 결과 공유, 4) 유연한 업무방식&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;동료 파악
+&lt;ol&gt;
+&lt;li&gt;PM은 동료들을 잘 알아야 한다. 무슨 일을 해왔는지, 지금 하고 있는 과제는 무엇이고, 캐파는 얼마나 확보되어 있는지, 업무성향은 어떤지&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;신뢰 조성
+&lt;ol&gt;
+&lt;li&gt;PM은 조직 내 신뢰를 조성해야 한다. &lt;strong&gt;스스로는 엄격하게, 동료에게는 관대하게&lt;/strong&gt;가 키포인트다.&lt;/li&gt;
+&lt;li&gt;동료들과 신뢰관계에 금이 가면 일정관리 &apos;버퍼&apos;가 생긴다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;목표 및 결과 공유
+&lt;ol&gt;
+&lt;li&gt;PM은 사업 목표를 끊임없이 공유해야 한다.
+&lt;ol&gt;
+&lt;li&gt;재무적인 상황, 경쟁 환경 등을 개발팀에도 적극 공유하여, 간접적으로나마 이해를 돕는다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;프로젝트가 끝날때마다 목표를 달성했는지 회고하는 것도 중요하다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;유연한 업무 방식
+&lt;ol&gt;
+&lt;li&gt;PM은 업무 방식을 유연하게 선택한다.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[홀로 추천사]]></title><description><![CDATA[…]]></description><link>https://jundolee.github.io/Alone/</link><guid isPermaLink="false">https://jundolee.github.io/Alone/</guid><pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;홀로 추천사&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;나의 삶은 과연 언제 나다운 삶이 될 것인가를 막연히 기다리고만 있다면. 어린 시절부터 줄곧 짐작해 온 자기 삶과 지금의 실재 하는 삶 사이의 거리감에 부대끼고 있다면. 그 거리감 속 어딘가에 외롭게 버려져 있는 것 같다면. 길을 잃은 것도 같고, 무언가가 잘못된 것만 같다면. 그렇다면 《홀로》를 읽어보시기를 권한다.이 책은 &apos;혼자 살아가는 것&apos;에 대한 자기 경험담을 세세하고 사려 깊게 쏟아부은 연구서와 같다. 혼자 사는 사람에게 반드시 전제돼 있을 것만 같은 외로움. 그 외로움의 시간을 어떻게 영위하는지. 그리고 어떤 사유와 기쁨을 얻는지. 이 《홀로》는 외로움과 온 전히 독대했던 저자가 세상에 내어놓는 자랑과도 같다. 외로움과 마주하는 스스로에게 가장 깊은 이해를 표하는 벗으로서, 그는 이 책을 집필했으리라. 또한,&apos;우정&apos;에 대한 우리의 오랜 오해를 한겹 한겹 벗겨내면서, 우정의 다른 가능성들을 드러내는 이야기다. 나는 다니엘 슈라이버가 너무도 고마웠다. 그의 경험들에 내 경험들을 포개보며 중요한 것을 알게 되어 가슴을 쓸어내렸기 때문이다&lt;/p&gt;
 &lt;p&gt;모르면서도 알고 있다 착각하는 세계, 알고 있으면서도 정작 얼마나 잘 알고 있는지도 모르는 세계. 그 세계가 《홀로》에 담겨 있었다. 너무나 소중하지만 정작 우리가 소홀히 했던 세계 하나가 이 렇게나 명료하게 우리 앞에 도착했다.&lt;/p&gt;
