@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jundolee.github.io/sitemap-0.xml
-Host: https://jundolee.github.io
