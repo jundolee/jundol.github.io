@@ -384,9 +384,9 @@ a:focus {
 
 .blog-post li {
   font-size: var(--fontSize-0);
-  margin-left: var(--spacing-5);
+  margin-left: var(--spacing-1);
   margin-top: var(--spacing-0);
-  list-style-position: outside;
+  list-style-position:inside;
 }
 
 .blog-post-bio {
