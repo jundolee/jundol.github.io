@@ -379,6 +379,7 @@ a:focus {
     font-family: var(--font-body);
     font-size: var(--fontSize-0);
     color: var(--color-text);
+    text-align: justify;
 }
 
 .blog-post li {
