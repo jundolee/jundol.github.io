@@ -1,4 +1,4 @@
-@import url('https://webfontworld.github.io/NanumSquareNeo/NanumSquareNeo.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp-dynamic-subset.min.css");
 
 /* CSS Custom Properties Definitions */
 
@@ -29,11 +29,11 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: "NanumSquareNeo", "MontserratVariable", system-ui, -apple-system,
+  --fontFamily-sans: "Pretendard JP", "MontserratVariable", system-ui, -apple-system,
     BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
-  --fontFamily-serif: "NanumSquareNeo", "Merriweather", "Georgia", Cambria, "Times New Roman",
+  --fontFamily-serif: "Pretendard JP", "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
   --font-body: var(--fontFamily-sans);
   --font-heading: var(--fontFamily-sans);
@@ -295,8 +295,9 @@ a:focus {
 }
 
 .post-list-item p {
+  font-family: var(--font-body);
   margin-bottom: var(--spacing-0);
-  font-size: var(--fontSize-0);
+  font-size: var(--fontSize-1);
 }
 
 .post-list-item h2 {
